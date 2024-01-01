@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¯‡Š8ê€µÌ1
+[
+java:S5993"9Change the visibility of this constructor to "protected".(î¾ÑÔøÿÿÿÿ8¦ê€µÌ1
+U
+java:S5993"9Change the visibility of this constructor to "protected".(„Ò»I8¦ê€µÌ1
+[
+java:S5993"9Change the visibility of this constructor to "protected".(Ñ¦ğùÿÿÿÿ8¦ê€µÌ1
+b	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Ñ¦ğùÿÿÿÿ8§ê€µÌ1
+L	java:S106J"+Replace this use of System.out by a logger.(Ïš–ıÿÿÿÿ8ªê€µÌ1
+M	java:S106†"+Replace this use of System.out by a logger.(Ù¸¿şøÿÿÿÿ8¬ê€µÌ1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(‰áÄ™ıÿÿÿÿ8¬ê€µÌ1
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(È·ê¾üÿÿÿÿ8¬ê€µÌ1
+M	java:S106–"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8­ê€µÌ1

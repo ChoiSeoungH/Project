@@ -1,0 +1,18 @@
+
+>
+java:S16433"Use a StringBuilder instead.(ˆ±öŠøÿÿÿÿ8Ô¼ãÌ1
+8
+java:S16434"Use a StringBuilder instead.(êÚ¯8Ö¼ãÌ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âê’ƒ8Ö¼ãÌ1
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(²Á8€ôø¡Ì1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¾Â¼—8ã¼ãÌ1
+O
+java:S1172"-Remove this unused method parameter "player".(ğ£‰Íıÿÿÿÿ8ë¼ãÌ1
+L	java:S106 "+Replace this use of System.out by a logger.(³öÛ‡ıÿÿÿÿ8ç¼ãÌ1
+L	java:S106""+Replace this use of System.out by a logger.(ğ’’ôøÿÿÿÿ8ê¼ãÌ1
+O
+java:S1172&"-Remove this unused method parameter "player".(¹ïƒóüÿÿÿÿ8Úãã Ì1
+L	java:S106)"+Replace this use of System.out by a logger.(™ğ¤öøÿÿÿÿ8ì¼ãÌ1
+L	java:S1067"+Replace this use of System.out by a logger.(şùı”ûÿÿÿÿ8î¼ãÌ1

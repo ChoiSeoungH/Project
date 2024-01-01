@@ -1,0 +1,13 @@
+
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8™Øâ›Ì1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö8šØâ›Ì1
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(×¼­Æ8©Øâ›Ì1
+G	java:S106"+Replace this use of System.out by a logger.(¤«ºÑ8±Øâ›Ì1
+G	java:S106"+Replace this use of System.out by a logger.(¤«ºÑ8²Øâ›Ì1
+F	java:S106!"+Replace this use of System.out by a logger.(Ö¯—8²Øâ›Ì1
+X	java:S125#"<This block of commented-out lines of code should be removed.(ÚÏ±¥8²Øâ›Ì1
+L	java:S106&"+Replace this use of System.out by a logger.(´Š÷úÿÿÿÿ8²Øâ›Ì1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ƒ“†íşÿÿÿÿ8³Øâ›Ì1
+{
+java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8³Øâ›Ì1

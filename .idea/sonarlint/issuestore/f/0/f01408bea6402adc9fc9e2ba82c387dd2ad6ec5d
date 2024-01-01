@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¯‡Š8×¤¬µÌ1
+V
+java:S5993"9Change the visibility of this constructor to "protected".(›ÕİÍ8æ¤¬µÌ1
+V
+java:S5993"9Change the visibility of this constructor to "protected".(í¤ğí8æ¤¬µÌ1
+^	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(›ÕİÍ8è¤¬µÌ1
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(È·ê¾üÿÿÿÿ8ñ¤¬µÌ1
+h
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(ØŠ•øıÿÿÿÿ8ñ¤¬µÌ1
+M	java:S106Š"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8ò¤¬µÌ1
+O
+java:S1068"-Remove this unused "className" private field.(Ö„œüÿÿÿÿ8ò¤¬µÌ1
+L
+java:S1068"/Remove this unused "weaponCheck" private field.(àÈ¶ã8ò¤¬µÌ1
+P
+java:S1068".Remove this unused "armorCheck" private field.(Şğğÿşÿÿÿÿ8ò¤¬µÌ1
+O
+java:S1068"-Remove this unused "ringCheck" private field.(İ¥ìÿÿÿÿÿ8ò¤¬µÌ1

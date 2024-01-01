@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²úæß8ó·‹´Ì1
+D
+java:S2189)""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8’üà´Ì1
+x
+java:S1450"VRemove the "gameMap" field and declare it as a local variable in the relevant methods.(¯Ú»Šÿÿÿÿÿ8õ¸‹´Ì1
+x
+java:S1450"VRemove the "nextMap" field and declare it as a local variable in the relevant methods.(–°şóüÿÿÿÿ8õ¸‹´Ì1
+G	java:S106"+Replace this use of System.out by a logger.(°¾óà8¤Ô´Ì1
+G	java:S106"+Replace this use of System.out by a logger.(†£³¤8°üà´Ì1
+G	java:S106"+Replace this use of System.out by a logger.(²İ¨¦8°üà´Ì1
+F	java:S106&"+Replace this use of System.out by a logger.(ûıÂF8ù¸‹´Ì1
+G	java:S106;"+Replace this use of System.out by a logger.(×Üß–8ÀÊÑ´Ì1
+m	java:S128D"LEnd this switch case with an unconditional break, return or throw statement.(±©Î¯ıÿÿÿÿ8û¸‹´Ì1
+=	java:S131=""Add a default case to this switch.(€ä¿;8û¸‹´Ì1
+=	java:S131Q""Add a default case to this switch.(€ä¿;8ı¸‹´Ì1

@@ -1,0 +1,18 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âşæ[8ÈÄÅªÌ1
+G	java:S106"+Replace this use of System.out by a logger.(Šä×Õ8ÖÄÅªÌ1
+=	java:S131""Add a default case to this switch.(€ä¿;8×ÄÅªÌ1
+G	java:S106"+Replace this use of System.out by a logger.(ùì À8×ÄÅªÌ1
+G	java:S106"+Replace this use of System.out by a logger.(›ÛÏ¯8ØÄÅªÌ1
+G	java:S106""+Replace this use of System.out by a logger.(Ú·Ìï8ØÄÅªÌ1
+G	java:S106*"+Replace this use of System.out by a logger.(¦êçó8ÙÄÅªÌ1
+G	java:S106."+Replace this use of System.out by a logger.(…²áş8ÙÄÅªÌ1
+F	java:S1064"+Replace this use of System.out by a logger.(¹îÅO8§öÇªÌ1
+L	java:S1068"+Replace this use of System.out by a logger.(œÙ•İıÿÿÿÿ8§öÇªÌ1
+L	java:S106:"+Replace this use of System.out by a logger.(ÙÖ«„ûÿÿÿÿ8İÚÈªÌ1
+T
+java:S1854N"7Remove this useless assignment to local variable "num".(ü²é¡8ÛÄÅªÌ1
+G	java:S106K"+Replace this use of System.out by a logger.(¦êçó8İÚÈªÌ1
+L	java:S106M"+Replace this use of System.out by a logger.(°ÎÄÅúÿÿÿÿ8ÄõÌªÌ1
+E
+java:S1481N"(Remove this unused "num" local variable.(ü²é¡8õ¥ÎªÌ1

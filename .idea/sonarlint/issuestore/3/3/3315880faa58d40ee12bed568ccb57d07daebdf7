@@ -1,0 +1,33 @@
+
+Q
+java:S3740v"/Provide the parametrized type for this generic.(´¿Çüÿÿÿÿ8§‚¶Ì1
+L
+java:S3740w"/Provide the parametrized type for this generic.(ø†—‚8§‚¶Ì1
+L
+java:S3740z"/Provide the parametrized type for this generic.(½’÷8§‚¶Ì1
+M
+java:S3740‚"/Provide the parametrized type for this generic.(½’÷8§‚¶Ì1
+{	java:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¨‚¶Ì1
+‡
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(©µößøÿÿÿÿ8¨‚¶Ì1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²úæß8«‚¶Ì1
+L	java:S1066"+Replace this use of System.out by a logger.(ÿ±òØıÿÿÿÿ8×Ÿ‚¶Ì1
+j	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÜ—8ØŸ‚¶Ì1
+G	java:S106D"+Replace this use of System.out by a logger.(®é¾Ó8ØŸ‚¶Ì1
+L	java:S106H"+Replace this use of System.out by a logger.(¯ƒÔ‚øÿÿÿÿ8ÙŸ‚¶Ì1
+S
+java:S1117R"7Rename "exp" which hides the field declared at line 16.(¼Šê8ÚŸ‚¶Ì1
+R
+java:S2696V"6Make the enclosing method "static" or remove this set.(ÃÃ8ÚŸ‚¶Ì1
+n
+java:S3457Z"Q%n should be used in place of \n to produce the platform-specific line separator.(Ùúš8ÚŸ‚¶Ì1
+G	java:S106Z"+Replace this use of System.out by a logger.(Ùúš8ÚŸ‚¶Ì1
+X
+java:S2696^"6Make the enclosing method "static" or remove this set.(Ø§±çùÿÿÿÿ8ÛŸ‚¶Ì1
+G	java:S106b"+Replace this use of System.out by a logger.(§–×ë8ÛŸ‚¶Ì1
+>	java:S131e""Add a default case to this switch.(¬Ù‡°8ÜŸ‚¶Ì1
+G	java:S106{"+Replace this use of System.out by a logger.(…—˜8İŸ‚¶Ì1
+T
+java:S2696‹"6Make the enclosing method "static" or remove this set.(–´äü8ßŸ‚¶Ì1
+M	java:S106£"+Replace this use of System.out by a logger.(÷»æÊúÿÿÿÿ8áŸ‚¶Ì1
+H	java:S106¦"+Replace this use of System.out by a logger.(´˜Ş½8áŸ‚¶Ì1

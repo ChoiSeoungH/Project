@@ -1,0 +1,17 @@
+
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾ïØe8ÆÒ¸³Ì1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ş¤Œ8ÈÒ¸³Ì1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ŸˆÙ’ùÿÿÿÿ8øÓ¸³Ì1
+F	java:S106"+Replace this use of System.out by a logger.(´…‡R8ûÓ¸³Ì1
+=	java:S131""Add a default case to this switch.(€ä¿;8ûÓ¸³Ì1
+L	java:S106-"+Replace this use of System.out by a logger.(Îú“Ìúÿÿÿÿ8ıÓ¸³Ì1
+L	java:S1065"+Replace this use of System.out by a logger.(©®ÒÌÿÿÿÿÿ8şÓ¸³Ì1
+L	java:S106@"+Replace this use of System.out by a logger.(Îú“Ìúÿÿÿÿ8€Ô¸³Ì1
+F	java:S106I"+Replace this use of System.out by a logger.(¿ÛQ8Ô¸³Ì1
+L	java:S106O"+Replace this use of System.out by a logger.(”°Ôœÿÿÿÿÿ8Ô¸³Ì1
+L	java:S106X"+Replace this use of System.out by a logger.(µß•£øÿÿÿÿ8‚Ô¸³Ì1
+G	java:S106["+Replace this use of System.out by a logger.(ÓÎó×8‚Ô¸³Ì1
+L	java:S106\"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8‚Ô¸³Ì1
+L	java:S106b"+Replace this use of System.out by a logger.(—ÖÏ³şÿÿÿÿ8ƒÔ¸³Ì1
