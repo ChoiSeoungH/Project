@@ -51,6 +51,9 @@
    파티원의 아이템이 비어있으면 해제 불가
    아이템 해제 -> 착용하고있던 아이템을 아이템 리스트에 추가
 # Manager
+> 1. GameManager
+     
+> 2. UnitManager
 # Map
 > 1. GameMap
      모든 맵들의 인터페이스 크기는 7x7
@@ -87,8 +90,11 @@
 > 2. StageTitle
      첫 시작화면 아무버튼이나 입력하여 로비로 이동
 > 3. StageLobby
+    로비
 > 4. StagePlay
+    직접 플레이하게되는 스테이지
 > 5. StageBattle
+    전투를 위한 스테이지
 # Unit
 >  1. Unit
     유닛들의 최고 조상 추상 클래스
