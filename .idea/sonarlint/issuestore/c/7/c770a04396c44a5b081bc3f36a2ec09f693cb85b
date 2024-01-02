@@ -1,6 +1,6 @@
 
 f
-java:S11922"IDefine a constant instead of duplicating this literal "DELKADAR" 3 times.(ó®æ±8í¿×¦Ì1
+java:S11923"IDefine a constant instead of duplicating this literal "DELKADAR" 3 times.(ó®æ±8í¿×¦Ì1
 K
 java:S1121".Extract the assignment out of this expression.(“•›‡8í¿×¦Ì1
 K
@@ -9,9 +9,9 @@ t	java:S127 "XRefactor the code in order to not assign to this loop counter fr
 Y
 java:S4973"<Strings and Boxed types should be compared using "equals()".(çäˆØ8î¿×¦Ì1
 X
-java:S4973D"<Strings and Boxed types should be compared using "equals()".(·²ºp8î¿×¦Ì1
+java:S4973E"<Strings and Boxed types should be compared using "equals()".(·²ºp8î¿×¦Ì1
 ^
-java:S4973G"<Strings and Boxed types should be compared using "equals()".(ñ‰¯§ùÿÿÿÿ8î¿×¦Ì1
+java:S4973H"<Strings and Boxed types should be compared using "equals()".(ñ‰¯§ùÿÿÿÿ8î¿×¦Ì1
 ^
 java:S2184"ACast one of the operands of this division operation to a "float".(ª¦ßÿ8î¿×¦Ì1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðì©¸üÿÿÿÿ8î¿×¦Ì1
@@ -20,6 +20,6 @@ I
 java:S2185",Remove this unnecessary call to "Math.round"(ª¦ßÿ8‘À×¦Ì1
 j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßâÛ„8’À×¦Ì1
 F	java:S106'"+Replace this use of System.out by a logger.(È¾ò]8“À×¦Ì1
-G	java:S106*"+Replace this use of System.out by a logger.(ªÆâ‰8”À×¦Ì1
-L	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8”À×¦Ì1
-C	java:S1315""Add a default case to this switch.(èŠœ›ûÿÿÿÿ8•À×¦Ì1
+G	java:S106+"+Replace this use of System.out by a logger.(ªÆâ‰8”À×¦Ì1
+L	java:S106-"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8”À×¦Ì1
+C	java:S1316""Add a default case to this switch.(èŠœ›ûÿÿÿÿ8•À×¦Ì1

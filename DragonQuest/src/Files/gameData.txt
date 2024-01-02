@@ -1,6 +1,6 @@
 10000
 용사/1/20/20/5/1/0/10/false/true
-null/null/💍,금반지,30,4000
+null/null/null
 카뮈/1/18/18/3/0/0/10/false/true
 null/null/null
 베로니카/1/16/16/1/0/0/10/false/true
@@ -9,7 +9,7 @@ null/null/null
 null/null/null
 실비아/1/22/22/2/1/0/10/false/false
 null/null/null
-로우/1/18/18/1/0/0/10/true/false
+로우/1/0/18/1/0/0/10/true/false
 null/null/null
 마르티나/1/15/15/6/0/0/10/false/false
 null/null/null

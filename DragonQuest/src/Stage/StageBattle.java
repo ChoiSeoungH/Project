@@ -88,7 +88,7 @@ public class StageBattle implements Stage {
             exp = StageBattle.exp / pList.size();
           }
           System.out.printf("%s가 %d의 경험치를 획득했습니다.\n", p.getName(), exp);
-          p.setExp(exp);
+          p.setExp(p.getExp()+exp);
           Util.getInstance().setDelay(500);
         }
         StageBattle.exp = 0;

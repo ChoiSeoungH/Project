@@ -4,6 +4,7 @@ import Building.Building;
 import Building.Church;
 import Building.Inn;
 import Building.Shop;
+import Manager.UnitManager;
 import Util.Util;
 
 import java.util.HashMap;
@@ -32,6 +33,7 @@ public class Town implements GameMap {
     townMap[1][SIZE - 2] = MapSymbol.INN.getSymbol();
     townMap[SIZE - 2][1] = MapSymbol.SHOP.getSymbol();
     townMap[1][1] = MapSymbol.CHURCH.getSymbol();
+    MapSymbol.PLAYER.setSymbol(UnitManager.getInstance().getPartyList().get(0).getName());
     townMap[y = 2][x = 1] = MapSymbol.PLAYER.getSymbol();
 
     buildingList = new HashMap<>();
@@ -43,6 +45,7 @@ public class Town implements GameMap {
   @Override
   public void PrintMap() {
     System.out.println("======== 이시마을 ========");
+    townMap[y][x] = MapSymbol.PLAYER.getSymbol();
     for (String[] strings : townMap) {
       for (String string : strings) {
         System.out.print(string);

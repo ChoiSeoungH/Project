@@ -1,11 +1,18 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðì©¸üÿÿÿÿ8ˆã•­Ì1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðì©¸üÿÿÿÿ8å¿ÐÂÌ1
+^
+java:S3066"<Lower the visibility of this setter or remove it altogether.(·ü³Úüÿÿÿÿ8ê¿ÐÂÌ1
 W
-java:S2479
-":Remove the non-escaped \u200D character from this literal.(žŽÓÖ8Œã•­Ì1
+java:S2479":Remove the non-escaped \u200D character from this literal.(äžÅ¾8î¿ÐÂÌ1
 W
-java:S2479
-":Remove the non-escaped \u200D character from this literal.(žŽÓÖ8Œã•­Ì1
+java:S2479":Remove the non-escaped \u200D character from this literal.(äžÅ¾8î¿ÐÂÌ1
 W
-java:S2479
-":Remove the non-escaped \u200D character from this literal.(žŽÓÖ8Œã•­Ì1
+java:S2479":Remove the non-escaped \u200D character from this literal.(äžÅ¾8î¿ÐÂÌ1
+W
+java:S2479":Remove the non-escaped \u200D character from this literal.(äžÅ¾8¥ûÔÂÌ1
+W
+java:S2479":Remove the non-escaped \u200D character from this literal.(äžÅ¾8úÚÂÌ1
+R
+java:S1128"0Remove this unused import 'Manager.UnitManager'.(Ç˜Ç×ùÿÿÿÿ8Ì·áÂÌ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ì·áÂÌ1

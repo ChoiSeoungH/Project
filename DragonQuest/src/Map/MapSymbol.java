@@ -2,20 +2,23 @@ package Map;
 
 import Manager.UnitManager;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public enum MapSymbol {
   MONSTER("\uD83D\uDC7E"), TILE("🟩"), WALL("\uD83E\uDDF1"), DOOR("\uD83D\uDEAA"),
-  PLAYER(UnitManager.getInstance().getPartyList().get(0).getName(), Arrays.asList("🤴", "🥷", "🫅", "🧙‍♀️", "🧙🏽‍♀️", "👸", "🧑‍🎤")),
+  PLAYER(""),
   INN("🏨"), SHOP("\uD83C\uDFDA\uFE0F"), CHURCH("⛪\uFE0F");
-  private final String symbol;
+  private String symbol;
 
   MapSymbol(String symbol) {
     this.symbol = symbol;
   }
 
-  MapSymbol(String player, List<String> list) {
+
+  public void setSymbol(String player) {
+    ArrayList<String> list = new ArrayList<>(Arrays.asList("🤴", "🦹‍♂️", "🧙‍♂️", "🧙‍♀️", "🧙🏽‍♀️", "👸", "👨‍🎤"));
     String temp = null;
     if (player.equals("용사")) {
       temp = list.get(0);

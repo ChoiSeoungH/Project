@@ -37,6 +37,7 @@ public class Delkadar implements GameMap {
   @Override
   public void PrintMap() {
     System.out.println("======== 델카다르 외곽 ========");
+    outskirtsMap[y][x] = MapSymbol.PLAYER.getSymbol();
     for (String[] strings : outskirtsMap) {
       for (String string : strings) {
         System.out.print(string);

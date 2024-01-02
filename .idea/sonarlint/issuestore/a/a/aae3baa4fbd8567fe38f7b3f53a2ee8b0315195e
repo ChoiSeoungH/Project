@@ -1,45 +1,45 @@
 
-g	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Þ¦ÝµÌ1
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Þ¦ÝµÌ1
 ’
-java:S1319~"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(á‘ÏÊúÿÿÿÿ8à¦ÝµÌ1
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(á‘ÏÊúÿÿÿÿ8à¦ÝµÌ1
 
-java:S1319ƒ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èÑý8à¦ÝµÌ1
+java:S1319„"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èÑý8à¦ÝµÌ1
 ”
-java:S1319š"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(³í†³øÿÿÿÿ8Õ½ïµÌ1
+java:S1319›"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(³í†³øÿÿÿÿ8Õ½ïµÌ1
 9
-java:S1643b"Use a StringBuilder instead.(“ÄØò8à¦ÝµÌ1
+java:S1643c"Use a StringBuilder instead.(“ÄØò8à¦ÝµÌ1
 9
-java:S1643c"Use a StringBuilder instead.(³Å«Ç8à¦ÝµÌ1
+java:S1643d"Use a StringBuilder instead.(³Å«Ç8à¦ÝµÌ1
 8
-java:S1643d"Use a StringBuilder instead.(èìM8à¦ÝµÌ1
+java:S1643e"Use a StringBuilder instead.(èìM8à¦ÝµÌ1
 >
-java:S1643e"Use a StringBuilder instead.(™°ÝÀýÿÿÿÿ8à¦ÝµÌ1
+java:S1643f"Use a StringBuilder instead.(™°ÝÀýÿÿÿÿ8à¦ÝµÌ1
 9
-java:S1643i"Use a StringBuilder instead.(÷¾Ò±8à¦ÝµÌ1
-y
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(è–† 8á¦ÝµÌ1
+java:S1643j"Use a StringBuilder instead.(÷¾Ò±8à¦ÝµÌ1
 z
-java:S1488„"\Immediately return this expression instead of assigning it to the temporary variable "list".(Åœáû8á¦ÝµÌ1
+java:S1488€"\Immediately return this expression instead of assigning it to the temporary variable "list".(è–† 8á¦ÝµÌ1
+z
+java:S1488…"\Immediately return this expression instead of assigning it to the temporary variable "list".(Åœáû8á¦ÝµÌ1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰á¦•ýÿÿÿÿ8ã¦ÝµÌ1
 †
-java:S4165¸"hRemove this useless assignment; "playerList" already holds the assigned value along all execution paths.(Ð˜åá8‚©ÝµÌ1
+java:S4165¹"hRemove this useless assignment; "playerList" already holds the assigned value along all execution paths.(Ð˜åá8ÈŠ²ÂÌ1
 …
-java:S4165¹"gRemove this useless assignment; "partyList" already holds the assigned value along all execution paths.(Ñ÷Š×8‚©ÝµÌ1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§é®Ÿ8ƒ©ÝµÌ1
+java:S4165º"gRemove this useless assignment; "partyList" already holds the assigned value along all execution paths.(Ñ÷Š×8ÇŠ²ÂÌ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§é®Ÿ8ƒ©ÝµÌ1
 »
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(€¸¨óüÿÿÿÿ8„©ÝµÌ1
-H	java:S106¢"+Replace this use of System.out by a logger.(žøºÅ8–©ÝµÌ1
-H	java:S106¨"+Replace this use of System.out by a logger.(ÑÎÒü8–©ÝµÌ1
-M	java:S106¬"+Replace this use of System.out by a logger.(Éˆò©úÿÿÿÿ8—©ÝµÌ1
-H	java:S106°"+Replace this use of System.out by a logger.(—ŽäÒ8—©ÝµÌ1
-M	java:S106±"+Replace this use of System.out by a logger.(†³îÂûÿÿÿÿ8—©ÝµÌ1
-M	java:S106²"+Replace this use of System.out by a logger.(Ó·º›ùÿÿÿÿ8—©ÝµÌ1
-H	java:S106³"+Replace this use of System.out by a logger.(—ŽäÒ8˜©ÝµÌ1
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(€¸¨óüÿÿÿÿ8„©ÝµÌ1
+H	java:S106£"+Replace this use of System.out by a logger.(žøºÅ8–©ÝµÌ1
+H	java:S106©"+Replace this use of System.out by a logger.(ÑÎÒü8–©ÝµÌ1
+M	java:S106­"+Replace this use of System.out by a logger.(Éˆò©úÿÿÿÿ8—©ÝµÌ1
+H	java:S106±"+Replace this use of System.out by a logger.(—ŽäÒ8—©ÝµÌ1
+M	java:S106²"+Replace this use of System.out by a logger.(†³îÂûÿÿÿÿ8—©ÝµÌ1
+M	java:S106³"+Replace this use of System.out by a logger.(Ó·º›ùÿÿÿÿ8—©ÝµÌ1
+H	java:S106´"+Replace this use of System.out by a logger.(—ŽäÒ8˜©ÝµÌ1
 T
-java:S2696¸"6Make the enclosing method "static" or remove this set.(Ð˜åá8˜©ÝµÌ1
+java:S2696¹"6Make the enclosing method "static" or remove this set.(Ð˜åá8˜©ÝµÌ1
 T
-java:S2696¹"6Make the enclosing method "static" or remove this set.(Ñ÷Š×8˜©ÝµÌ1
-G	java:S106À"+Replace this use of System.out by a logger.(–é½Y8™©ÝµÌ1
-H	java:S106Ã"+Replace this use of System.out by a logger.(ÓÎó×8™©ÝµÌ1
-H	java:S106Ä"+Replace this use of System.out by a logger.(æî§Å8™©ÝµÌ1
-H	java:S106Ç"+Replace this use of System.out by a logger.(±„òá8™©ÝµÌ1
+java:S2696º"6Make the enclosing method "static" or remove this set.(Ñ÷Š×8˜©ÝµÌ1
+G	java:S106Â"+Replace this use of System.out by a logger.(–é½Y8™©ÝµÌ1
+H	java:S106Å"+Replace this use of System.out by a logger.(ÓÎó×8™©ÝµÌ1
+H	java:S106Æ"+Replace this use of System.out by a logger.(æî§Å8™©ÝµÌ1
+H	java:S106É"+Replace this use of System.out by a logger.(±„òá8™©ÝµÌ1

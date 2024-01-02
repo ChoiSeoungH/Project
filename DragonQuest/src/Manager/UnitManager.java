@@ -4,6 +4,7 @@ package Manager;
 import Item.Inventory;
 import Item.Item;
 import Item.ItemSymbol;
+import Map.MapSymbol;
 import Unit.Player;
 import Unit.Unit;
 import Util.Util;
@@ -184,6 +185,7 @@ public class UnitManager {
     playerList = list;
     partyList = list2;
     printPartyMember();
+    MapSymbol.PLAYER.setSymbol(UnitManager.getInstance().getPartyList().get(0).getName());
     return list2;
   }//eom
 

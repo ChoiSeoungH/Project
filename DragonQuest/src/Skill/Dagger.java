@@ -17,5 +17,6 @@ public class Dagger implements Skill, Thief {
     } else {
       System.out.println("하지만 빗나갓다!");
     }
+    Util.getInstance().setDelay(500);
   }
 }
