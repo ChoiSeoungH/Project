@@ -35,7 +35,9 @@ public class Inn implements Building {
 
   private void TakeRest() {
     for (Player player : UnitManager.getInstance().getPlayerList()) {
-      player.setCurhp(player.getMaxhp());
+      if (!player.isDead()) {
+        player.setCurhp(player.getMaxhp());
+      }
     }
     UnitManager.setMoney(UnitManager.getMoney() - fee);
     System.out.println("그럼 편히 쉬도록 해");

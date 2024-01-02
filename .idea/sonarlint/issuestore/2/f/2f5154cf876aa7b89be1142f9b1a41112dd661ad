@@ -1,17 +1,17 @@
 
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âşæ[8Œà³Ì1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âşæ[8’†ÃÌ1
 >
-java:S1170"!Make this final field static too.(ìçÿ8ª–“¶Ì1
-G	java:S106"+Replace this use of System.out by a logger.(òÕçè8·Œà³Ì1
-L	java:S106"+Replace this use of System.out by a logger.(ø›àæúÿÿÿÿ8·Œà³Ì1
-L	java:S106"+Replace this use of System.out by a logger.(Ëü“şÿÿÿÿ8·Œà³Ì1
-G	java:S106"+Replace this use of System.out by a logger.(×Üß–8·Œà³Ì1
-L	java:S106"+Replace this use of System.out by a logger.(ãÿäøÿÿÿÿ8¸Œà³Ì1
-=	java:S131""Add a default case to this switch.(€ä¿;8¸Œà³Ì1
-G	java:S106"+Replace this use of System.out by a logger.(ØÕ’˜8¹Œà³Ì1
-j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åó…½8¸Œà³Ì1
-G	java:S106)"+Replace this use of System.out by a logger.(ú¶÷‡8ºŒà³Ì1
-L	java:S106+"+Replace this use of System.out by a logger.(ÊÖëÇüÿÿÿÿ8ºŒà³Ì1
-L	java:S1063"+Replace this use of System.out by a logger.(¨Èÿ“øÿÿÿÿ8»Œà³Ì1
-=	java:S1315""Add a default case to this switch.(€ä¿;8»Œà³Ì1
-G	java:S1067"+Replace this use of System.out by a logger.(ÔŒ¦ï8ßûà³Ì1
+java:S1170"!Make this final field static too.(ìçÿ8¢†ÃÌ1
+G	java:S106"+Replace this use of System.out by a logger.(òÕçè8¥†ÃÌ1
+L	java:S106"+Replace this use of System.out by a logger.(ø›àæúÿÿÿÿ8¥†ÃÌ1
+L	java:S106"+Replace this use of System.out by a logger.(Ëü“şÿÿÿÿ8¥†ÃÌ1
+G	java:S106"+Replace this use of System.out by a logger.(×Üß–8¥†ÃÌ1
+L	java:S106"+Replace this use of System.out by a logger.(ãÿäøÿÿÿÿ8¦†ÃÌ1
+=	java:S131""Add a default case to this switch.(€ä¿;8¦†ÃÌ1
+G	java:S106"+Replace this use of System.out by a logger.(ØÕ’˜8¦†ÃÌ1
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åó…½8§†ÃÌ1
+G	java:S106+"+Replace this use of System.out by a logger.(ú¶÷‡8§†ÃÌ1
+L	java:S106-"+Replace this use of System.out by a logger.(ÊÖëÇüÿÿÿÿ8¨†ÃÌ1
+L	java:S1065"+Replace this use of System.out by a logger.(¨Èÿ“øÿÿÿÿ8¨†ÃÌ1
+=	java:S1317""Add a default case to this switch.(€ä¿;8©†ÃÌ1
+G	java:S1069"+Replace this use of System.out by a logger.(ÔŒ¦ï8©†ÃÌ1
